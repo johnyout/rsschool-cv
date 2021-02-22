@@ -53,3 +53,12 @@
 ## English skills
 
 B2+
+
+## Code example
+
+```c#
+public static void Main(string[] args)
+{
+    Console.WriteLine("Hello world!");
+}
+```
