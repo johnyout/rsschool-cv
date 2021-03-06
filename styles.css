@@ -1,0 +1,21 @@
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.exp {
+  display: block;
+  text-align: center;
+}
+.exp-header {
+  text-align: center;
+}
