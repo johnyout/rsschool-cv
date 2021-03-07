@@ -12,10 +12,23 @@ body {
   align-items: center;
   margin: 0 auto;
 }
-.exp {
+
+.figure {
+  background: #d9dabb;
   display: block;
+  width: 150px;
+  height: 190px;
+  float: left;
+  margin: 0 10px 10px 0;
   text-align: center;
 }
-.exp-header {
-  text-align: center;
+figure img {
+  border: 2px solid #8b8e4b;
+}
+figure p {
+  margin-bottom: 0;
+}
+
+figure figcaption {
+  margin-left: 50px;
 }
